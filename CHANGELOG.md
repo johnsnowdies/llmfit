@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.4](https://github.com/AlexsJones/llmfit/compare/v1.1.3...v1.1.4) (2026-07-17)
+
+
+### Features
+
+* **core:** report macOS GPU-available unified memory ([2e845e7](https://github.com/AlexsJones/llmfit/commit/2e845e73ffc5564214be4d4deac690f855af098a))
+* **core:** report macOS GPU-available unified memory ([f082483](https://github.com/AlexsJones/llmfit/commit/f082483c77e58c2015b7de303c7c4c88d7cf0627))
+
+
+### Bug Fixes
+
+* **core:** clamp GPU-available display to the shared pool ([7d188b5](https://github.com/AlexsJones/llmfit/commit/7d188b5683b6f3de524d5a4af4771caee80293b2))
+* **core:** clear gpu_available_gb on overrides; drop redundant sysctl check ([c67a4eb](https://github.com/AlexsJones/llmfit/commit/c67a4eb4357e7f1054881c216b7e90af47839cdb))
+
 ## [1.1.3](https://github.com/AlexsJones/llmfit/compare/v1.1.2...v1.1.3) (2026-07-14)
 
 
